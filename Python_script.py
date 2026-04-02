@@ -44,7 +44,7 @@ def add_employee(employees):
 
         # Store in dictionary
         employees[emp_id] = {
-            'name': name,
+            'name': name, 
             'age': age,
             'department': dept,
             'salary': salary
